@@ -1,8 +1,1 @@
 hahaha
-<<<<<<< HEAD
-zzzzz
-nonono
-=======
-4:59
-hihi
->>>>>>> master
